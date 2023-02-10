@@ -3,7 +3,7 @@ const express = require("express");
 const PORT = process.env.PORT || 3001;
 const app = express();
 
-app.use(express.static(path.resolve(__dirname, '../client/public/html/')));
+app.use(express.static(path.resolve('/html/')));
 
 // app.get("/api", (req, res) => {
 //     res.json({ message: "Hello from server!" })
@@ -22,7 +22,7 @@ app.get("/blog.html", (req, res) => {
 });
 
 app.get('*', (req, res) => {
-    res.sendFile(path.resolve(__dirname, '../html/', 'index.html'));
+    res.sendFile(path.resolve(__dirname, '../client/public/html/', 'index.html'));
 });
 
 app.listen(PORT, () => {
