@@ -3,7 +3,7 @@ const express = require("express");
 const PORT = process.env.PORT || 3001;
 const app = express();
 
-app.use(express.static("client/public/html"));
+app.use(express.static("client/public/html/"));
 
 // app.get("/api", (req, res) => {
 //     res.json({ message: "Hello from server!" })
