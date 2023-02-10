@@ -38,35 +38,35 @@ app.get("/images/github.svg", (req, res) => {
     res.sendFile(path.resolve('../client/public/html/images/film/', 'github.svg'));
 });
 
-app.get("/images/AirplaneWingSpain.jpeg", (req, res) => {
+app.get("/images/film/AirplaneWingSpain.jpeg", (req, res) => {
     res.sendFile(path.resolve('../client/public/html/images/film/', 'AirplaneWingSpain.jpeg'));
 });
 
-app.get("/images/BullFightSpain.jpeg", (req, res) => {
+app.get("/images/film/BullFightSpain.jpeg", (req, res) => {
     res.sendFile(path.resolve('../client/public/html/images/film/', 'BullFightSpain.jpeg'));
 });
 
-app.get("/images/CookingKuwait.jpeg", (req, res) => {
+app.get("/images/film/CookingKuwait.jpeg", (req, res) => {
     res.sendFile(path.resolve('../client/public/html/images/film/', 'CookingKuwait.jpeg'));
 });
 
-app.get("/images/EdgeOfWorldAtami.jpg", (req, res) => {
+app.get("/images/film/EdgeOfWorldAtami.jpg", (req, res) => {
     res.sendFile(path.resolve('../client/public/html/images/film/', 'EdgeOfWorldAtami.jpg'));
 });
 
-app.get("/images/HeavenAtami.jpg", (req, res) => {
+app.get("/images/film/HeavenAtami.jpg", (req, res) => {
     res.sendFile(path.resolve('../client/public/html/images/film/', 'HeavenAtami.jpg'));
 });
 
-app.get("/images/Paradise2Atami.jpg", (req, res) => {
+app.get("/images/film/Paradise2Atami.jpg", (req, res) => {
     res.sendFile(path.resolve('../client/public/html/images/film/', 'Paradise2Atami.jpg'));
 });
 
-app.get("/images/SheepKuwait.jpeg", (req, res) => {
+app.get("/images/film/SheepKuwait.jpeg", (req, res) => {
     res.sendFile(path.resolve('../client/public/html/images/film/', 'SheepKuwait.jpeg'));
 });
 
-app.get("/images/SlimAaronsAtami.jpg", (req, res) => {
+app.get("/images/film/SlimAaronsAtami.jpg", (req, res) => {
     res.sendFile(path.resolve('../client/public/html/images/film/', 'SlimAarons.jpg'));
 });
 
