@@ -10,11 +10,15 @@ app.get("/api", (req, res) => {
 });
 
 app.get("/links.html", (req, res) => {
-    res.json({ message: "Hello from server!" })
+    res.sendFile(path.resolve(__dirname, '../html/', 'links.html'));
 });
 
 app.get("/film.html", (req, res) => {
-    res.json({ message: "Hello from server!" })
+    res.sendFile(path.resolve(__dirname, '../html/', 'film.html'));
+});
+
+app.get("/blog.html", (req, res) => {
+    res.sendFile(path.resolve(__dirname, '../html/', 'blog.html'));
 });
 
 app.get('*', (req, res) => {
