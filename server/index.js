@@ -27,11 +27,11 @@ app.get("/images/BlogBanner-min.png", (req, res) => {
 }); 
 
 app.get("/images/spotify.svg", (req, res) => {
-    res.sendFile(path.resolve('../client/public/html/images/film/', 'spotify.svg'));
+    res.sendFile(path.resolve('../client/public/html/images/', 'spotify.svg'));
 });
 
 app.get("/images/github.svg", (req, res) => {
-    res.sendFile(path.resolve('../client/public/html/images/film/', 'github.svg'));
+    res.sendFile(path.resolve('../client/public/html/images/', 'github.svg'));
 });
 
 app.get("/images/film/AccordionSpain.jpeg", (req, res) => {
