@@ -13,6 +13,10 @@ app.get("/links.html", (req, res) => {
     res.sendFile(path.resolve('../client/public/html/', 'links.html'));
 });
 
+app.get("/images/links.png", (req, res) => {
+    res.sendFile(path.resolve('../client/public/html/images/', 'links.png'));
+});
+
 app.get("/film.html", (req, res) => {
     res.sendFile(path.resolve('../client/public/html/', 'film.html'));
 });
