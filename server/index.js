@@ -3,22 +3,22 @@ const express = require("express");
 const PORT = process.env.PORT || 3001;
 const app = express();
 
-app.use(express.static(path.resolve(__dirname, '../html')));
+app.use(express.static(path.resolve(__dirname, '../client/public/html/')));
 
 // app.get("/api", (req, res) => {
 //     res.json({ message: "Hello from server!" })
 // });
 
 app.get("/links.html", (req, res) => {
-    res.sendFile(path.resolve(__dirname, '../html/', 'links.html'));
+    res.sendFile(path.resolve(__dirname, '../client/public/html/', 'links.html'));
 });
 
 app.get("/film.html", (req, res) => {
-    res.sendFile(path.resolve(__dirname, '../html/', 'film.html'));
+    res.sendFile(path.resolve(__dirname, '../client/public/html/', 'film.html'));
 });
 
 app.get("/blog.html", (req, res) => {
-    res.sendFile(path.resolve(__dirname, '../html/', 'blog.html'));
+    res.sendFile(path.resolve(__dirname, '../client/public/html/', 'blog.html'));
 });
 
 app.get('*', (req, res) => {
