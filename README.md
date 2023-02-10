@@ -1,2 +1,2 @@
 # clusk-net
-Personal site
+Personal site running on a Vultr server
