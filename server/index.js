@@ -10,23 +10,23 @@ app.use(express.static("client/public/html"));
 // });
 
 app.get("/links.html", (req, res) => {
-    res.sendFile(path.resolve('client/public/html/', 'links.html'));
+    res.sendFile(path.resolve('../client/public/html/', 'links.html'));
 });
 
 app.get("/film.html", (req, res) => {
-    res.sendFile(path.resolve('client/public/html/', 'film.html'));
+    res.sendFile(path.resolve('../client/public/html/', 'film.html'));
 });
 
 app.get("/blog.html", (req, res) => {
-    res.sendFile(path.resolve('client/public/html/', 'blog.html'));
+    res.sendFile(path.resolve('../client/public/html/', 'blog.html'));
 });
 
 app.get("/reach.html", (req, res) => {
-    res.sendFile(path.resolve('client/public/html/', 'reach.html'));
+    res.sendFile(path.resolve('../client/public/html/', 'reach.html'));
 });
 
 app.get('*', (req, res) => {
-    res.sendFile(path.resolve('client/public/html/', 'index.html'));
+    res.sendFile(path.resolve('../client/public/html/', 'index.html'));
 });
 
 app.listen(PORT, () => {
