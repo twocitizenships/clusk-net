@@ -14,8 +14,20 @@ app.get("/links.html", (req, res) => {
     res.sendFile(path.resolve('../client/public/html/', 'links.html'));
 });
 
-app.get("/images/links.png", (req, res) => {
-    res.sendFile(path.resolve('../client/public/html/images/', 'links.png'));
+app.get("/images/Links.png", (req, res) => {
+    res.sendFile(path.resolve('../client/public/html/images/', 'Links.png'));
+});
+
+app.get("/images/Home.png", (req, res) => {
+    res.sendFile(path.resolve('../client/public/html/images/', 'Home.png'));
+});
+
+app.get("/images/BlogBanner-min.png", (req, res) => {
+    res.sendFile(path.resolve('../client/public/html/images/', 'BlogBanner-min.png'));
+});
+
+app.get("/images/AccordionSpain.jpeg", (req, res) => {
+    res.sendFile(path.resolve('../client/public/html/images/film/', 'AccordionSpain.jpeg'));
 });
 
 app.get("/film.html", (req, res) => {
