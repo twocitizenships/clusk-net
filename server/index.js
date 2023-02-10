@@ -3,7 +3,7 @@ const express = require("express");
 const PORT = process.env.PORT || 3001;
 const app = express();
 
-app.use(express.static(path.resolve(__dirname, '../html/index.html')));
+app.use(express.static(path.resolve(__dirname, '../html')));
 
 app.get("/api", (req, res) => {
     res.json({ message: "Hello from server!" })
