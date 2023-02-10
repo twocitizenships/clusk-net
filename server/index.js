@@ -24,11 +24,7 @@ app.get("/images/Home.png", (req, res) => {
 
 app.get("/images/BlogBanner-min.png", (req, res) => {
     res.sendFile(path.resolve('../client/public/html/images/', 'BlogBanner-min.png'));
-});
-
-app.get("/images/BlogBanner-min.png", (req, res) => {
-    res.sendFile(path.resolve('../client/public/html/images/', 'BlogBanner-min.png'));
-});
+}); 
 
 app.get("/images/spotify.svg", (req, res) => {
     res.sendFile(path.resolve('../client/public/html/images/film/', 'spotify.svg'));
@@ -36,6 +32,10 @@ app.get("/images/spotify.svg", (req, res) => {
 
 app.get("/images/github.svg", (req, res) => {
     res.sendFile(path.resolve('../client/public/html/images/film/', 'github.svg'));
+});
+
+app.get("/images/film/AccordionSpain.jpeg", (req, res) => {
+    res.sendFile(path.resolve('../client/public/html/images/film/', 'AccordionSpain.jpeg'));
 });
 
 app.get("/images/film/AirplaneWingSpain.jpeg", (req, res) => {
@@ -62,12 +62,16 @@ app.get("/images/film/Paradise2Atami.jpg", (req, res) => {
     res.sendFile(path.resolve('../client/public/html/images/film/', 'Paradise2Atami.jpg'));
 });
 
+app.get("/images/film/ParadiseAtami.jpg", (req, res) => {
+    res.sendFile(path.resolve('../client/public/html/images/film/', 'ParadiseAtami.jpg'));
+});
+
 app.get("/images/film/SheepKuwait.jpeg", (req, res) => {
     res.sendFile(path.resolve('../client/public/html/images/film/', 'SheepKuwait.jpeg'));
 });
 
 app.get("/images/film/SlimAaronsAtami.jpg", (req, res) => {
-    res.sendFile(path.resolve('../client/public/html/images/film/', 'SlimAarons.jpg'));
+    res.sendFile(path.resolve('../client/public/html/images/film/', 'SlimAaronsAtami.jpg'));
 });
 
 app.get("/styles.css", (req, res) => {
