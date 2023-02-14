@@ -1,0 +1,20 @@
+.main {
+    background-color: #ffff;
+}
+
+body {
+    text-align: center;
+    background-color: #ffff;
+    font-family: Menlo
+}
+
+.p {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+/* 
+img {
+    padding: 8px;
+} */
