@@ -766,3 +766,131 @@ Error: Could not find a production build in the '/home/clusk/clusk-net/.next' di
     at /home/clusk/clusk-net/node_modules/src/server/next.ts:158:23
     at NextServer.prepare (/home/clusk/clusk-net/node_modules/src/server/next.ts:124:20)
     at /home/clusk/clusk-net/node_modules/src/cli/next-start.ts:86:7
+Error: Could not find a production build in the '/home/clusk/clusk-net/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/home/clusk/clusk-net/node_modules/src/server/next-server.ts:350:15)
+    at new Server (/home/clusk/clusk-net/node_modules/src/server/base-server.ts:368:25)
+    at new NextNodeServer (/home/clusk/clusk-net/node_modules/src/server/next-server.ts:212:5)
+    at NextServer.createServer (/home/clusk/clusk-net/node_modules/src/server/next.ts:139:12)
+    at /home/clusk/clusk-net/node_modules/src/server/next.ts:158:23
+    at NextServer.prepare (/home/clusk/clusk-net/node_modules/src/server/next.ts:124:20)
+    at /home/clusk/clusk-net/node_modules/src/cli/next-start.ts:86:7
+Error: Could not find a production build in the '/home/clusk/clusk-net/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/home/clusk/clusk-net/node_modules/src/server/next-server.ts:350:15)
+    at new Server (/home/clusk/clusk-net/node_modules/src/server/base-server.ts:368:25)
+    at new NextNodeServer (/home/clusk/clusk-net/node_modules/src/server/next-server.ts:212:5)
+    at NextServer.createServer (/home/clusk/clusk-net/node_modules/src/server/next.ts:139:12)
+    at /home/clusk/clusk-net/node_modules/src/server/next.ts:158:23
+    at NextServer.prepare (/home/clusk/clusk-net/node_modules/src/server/next.ts:124:20)
+    at /home/clusk/clusk-net/node_modules/src/cli/next-start.ts:86:7
+Error: Could not find a production build in the '/home/clusk/clusk-net/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/home/clusk/clusk-net/node_modules/src/server/next-server.ts:350:15)
+    at new Server (/home/clusk/clusk-net/node_modules/src/server/base-server.ts:368:25)
+    at new NextNodeServer (/home/clusk/clusk-net/node_modules/src/server/next-server.ts:212:5)
+    at NextServer.createServer (/home/clusk/clusk-net/node_modules/src/server/next.ts:139:12)
+    at /home/clusk/clusk-net/node_modules/src/server/next.ts:158:23
+    at NextServer.prepare (/home/clusk/clusk-net/node_modules/src/server/next.ts:124:20)
+    at /home/clusk/clusk-net/node_modules/src/cli/next-start.ts:86:7
+Error: Could not find a production build in the '/home/clusk/clusk-net/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/home/clusk/clusk-net/node_modules/src/server/next-server.ts:350:15)
+    at new Server (/home/clusk/clusk-net/node_modules/src/server/base-server.ts:368:25)
+    at new NextNodeServer (/home/clusk/clusk-net/node_modules/src/server/next-server.ts:212:5)
+    at NextServer.createServer (/home/clusk/clusk-net/node_modules/src/server/next.ts:139:12)
+    at /home/clusk/clusk-net/node_modules/src/server/next.ts:158:23
+    at NextServer.prepare (/home/clusk/clusk-net/node_modules/src/server/next.ts:124:20)
+    at /home/clusk/clusk-net/node_modules/src/cli/next-start.ts:86:7
+Error: Could not find a production build in the '/home/clusk/clusk-net/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/home/clusk/clusk-net/node_modules/src/server/next-server.ts:350:15)
+    at new Server (/home/clusk/clusk-net/node_modules/src/server/base-server.ts:368:25)
+    at new NextNodeServer (/home/clusk/clusk-net/node_modules/src/server/next-server.ts:212:5)
+    at NextServer.createServer (/home/clusk/clusk-net/node_modules/src/server/next.ts:139:12)
+    at /home/clusk/clusk-net/node_modules/src/server/next.ts:158:23
+    at NextServer.prepare (/home/clusk/clusk-net/node_modules/src/server/next.ts:124:20)
+    at /home/clusk/clusk-net/node_modules/src/cli/next-start.ts:86:7
+Error: Could not find a production build in the '/home/clusk/clusk-net/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/home/clusk/clusk-net/node_modules/src/server/next-server.ts:350:15)
+    at new Server (/home/clusk/clusk-net/node_modules/src/server/base-server.ts:368:25)
+    at new NextNodeServer (/home/clusk/clusk-net/node_modules/src/server/next-server.ts:212:5)
+    at NextServer.createServer (/home/clusk/clusk-net/node_modules/src/server/next.ts:139:12)
+    at /home/clusk/clusk-net/node_modules/src/server/next.ts:158:23
+    at NextServer.prepare (/home/clusk/clusk-net/node_modules/src/server/next.ts:124:20)
+    at /home/clusk/clusk-net/node_modules/src/cli/next-start.ts:86:7
+Error: Could not find a production build in the '/home/clusk/clusk-net/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/home/clusk/clusk-net/node_modules/src/server/next-server.ts:350:15)
+    at new Server (/home/clusk/clusk-net/node_modules/src/server/base-server.ts:368:25)
+    at new NextNodeServer (/home/clusk/clusk-net/node_modules/src/server/next-server.ts:212:5)
+    at NextServer.createServer (/home/clusk/clusk-net/node_modules/src/server/next.ts:139:12)
+    at /home/clusk/clusk-net/node_modules/src/server/next.ts:158:23
+    at NextServer.prepare (/home/clusk/clusk-net/node_modules/src/server/next.ts:124:20)
+    at /home/clusk/clusk-net/node_modules/src/cli/next-start.ts:86:7
+Error: Could not find a production build in the '/home/clusk/clusk-net/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/home/clusk/clusk-net/node_modules/src/server/next-server.ts:350:15)
+    at new Server (/home/clusk/clusk-net/node_modules/src/server/base-server.ts:368:25)
+    at new NextNodeServer (/home/clusk/clusk-net/node_modules/src/server/next-server.ts:212:5)
+    at NextServer.createServer (/home/clusk/clusk-net/node_modules/src/server/next.ts:139:12)
+    at /home/clusk/clusk-net/node_modules/src/server/next.ts:158:23
+    at NextServer.prepare (/home/clusk/clusk-net/node_modules/src/server/next.ts:124:20)
+    at /home/clusk/clusk-net/node_modules/src/cli/next-start.ts:86:7
+Error: Could not find a production build in the '/home/clusk/clusk-net/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/home/clusk/clusk-net/node_modules/src/server/next-server.ts:350:15)
+    at new Server (/home/clusk/clusk-net/node_modules/src/server/base-server.ts:368:25)
+    at new NextNodeServer (/home/clusk/clusk-net/node_modules/src/server/next-server.ts:212:5)
+    at NextServer.createServer (/home/clusk/clusk-net/node_modules/src/server/next.ts:139:12)
+    at /home/clusk/clusk-net/node_modules/src/server/next.ts:158:23
+    at NextServer.prepare (/home/clusk/clusk-net/node_modules/src/server/next.ts:124:20)
+    at /home/clusk/clusk-net/node_modules/src/cli/next-start.ts:86:7
+Error: Could not find a production build in the '/home/clusk/clusk-net/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/home/clusk/clusk-net/node_modules/src/server/next-server.ts:350:15)
+    at new Server (/home/clusk/clusk-net/node_modules/src/server/base-server.ts:368:25)
+    at new NextNodeServer (/home/clusk/clusk-net/node_modules/src/server/next-server.ts:212:5)
+    at NextServer.createServer (/home/clusk/clusk-net/node_modules/src/server/next.ts:139:12)
+    at /home/clusk/clusk-net/node_modules/src/server/next.ts:158:23
+    at NextServer.prepare (/home/clusk/clusk-net/node_modules/src/server/next.ts:124:20)
+    at /home/clusk/clusk-net/node_modules/src/cli/next-start.ts:86:7
+Error: Could not find a production build in the '/home/clusk/clusk-net/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/home/clusk/clusk-net/node_modules/src/server/next-server.ts:350:15)
+    at new Server (/home/clusk/clusk-net/node_modules/src/server/base-server.ts:368:25)
+    at new NextNodeServer (/home/clusk/clusk-net/node_modules/src/server/next-server.ts:212:5)
+    at NextServer.createServer (/home/clusk/clusk-net/node_modules/src/server/next.ts:139:12)
+    at /home/clusk/clusk-net/node_modules/src/server/next.ts:158:23
+    at NextServer.prepare (/home/clusk/clusk-net/node_modules/src/server/next.ts:124:20)
+    at /home/clusk/clusk-net/node_modules/src/cli/next-start.ts:86:7
+Error: Could not find a production build in the '/home/clusk/clusk-net/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/home/clusk/clusk-net/node_modules/src/server/next-server.ts:350:15)
+    at new Server (/home/clusk/clusk-net/node_modules/src/server/base-server.ts:368:25)
+    at new NextNodeServer (/home/clusk/clusk-net/node_modules/src/server/next-server.ts:212:5)
+    at NextServer.createServer (/home/clusk/clusk-net/node_modules/src/server/next.ts:139:12)
+    at /home/clusk/clusk-net/node_modules/src/server/next.ts:158:23
+    at NextServer.prepare (/home/clusk/clusk-net/node_modules/src/server/next.ts:124:20)
+    at /home/clusk/clusk-net/node_modules/src/cli/next-start.ts:86:7
+Error: Could not find a production build in the '/home/clusk/clusk-net/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/home/clusk/clusk-net/node_modules/src/server/next-server.ts:350:15)
+    at new Server (/home/clusk/clusk-net/node_modules/src/server/base-server.ts:368:25)
+    at new NextNodeServer (/home/clusk/clusk-net/node_modules/src/server/next-server.ts:212:5)
+    at NextServer.createServer (/home/clusk/clusk-net/node_modules/src/server/next.ts:139:12)
+    at /home/clusk/clusk-net/node_modules/src/server/next.ts:158:23
+    at NextServer.prepare (/home/clusk/clusk-net/node_modules/src/server/next.ts:124:20)
+    at /home/clusk/clusk-net/node_modules/src/cli/next-start.ts:86:7
+Error: Could not find a production build in the '/home/clusk/clusk-net/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/home/clusk/clusk-net/node_modules/src/server/next-server.ts:350:15)
+    at new Server (/home/clusk/clusk-net/node_modules/src/server/base-server.ts:368:25)
+    at new NextNodeServer (/home/clusk/clusk-net/node_modules/src/server/next-server.ts:212:5)
+    at NextServer.createServer (/home/clusk/clusk-net/node_modules/src/server/next.ts:139:12)
+    at /home/clusk/clusk-net/node_modules/src/server/next.ts:158:23
+    at NextServer.prepare (/home/clusk/clusk-net/node_modules/src/server/next.ts:124:20)
+    at /home/clusk/clusk-net/node_modules/src/cli/next-start.ts:86:7
+Error: Could not find a production build in the '/home/clusk/clusk-net/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/home/clusk/clusk-net/node_modules/src/server/next-server.ts:350:15)
+    at new Server (/home/clusk/clusk-net/node_modules/src/server/base-server.ts:368:25)
+    at new NextNodeServer (/home/clusk/clusk-net/node_modules/src/server/next-server.ts:212:5)
+    at NextServer.createServer (/home/clusk/clusk-net/node_modules/src/server/next.ts:139:12)
+    at /home/clusk/clusk-net/node_modules/src/server/next.ts:158:23
+    at NextServer.prepare (/home/clusk/clusk-net/node_modules/src/server/next.ts:124:20)
+    at /home/clusk/clusk-net/node_modules/src/cli/next-start.ts:86:7
+Error: Could not find a production build in the '/home/clusk/clusk-net/.next' directory. Try building your app with 'next build' before starting the production server. https://nextjs.org/docs/messages/production-start-no-build-id
+    at NextNodeServer.getBuildId (/home/clusk/clusk-net/node_modules/src/server/next-server.ts:350:15)
+    at new Server (/home/clusk/clusk-net/node_modules/src/server/base-server.ts:368:25)
+    at new NextNodeServer (/home/clusk/clusk-net/node_modules/src/server/next-server.ts:212:5)
+    at NextServer.createServer (/home/clusk/clusk-net/node_modules/src/server/next.ts:139:12)
+    at /home/clusk/clusk-net/node_modules/src/server/next.ts:158:23
+    at NextServer.prepare (/home/clusk/clusk-net/node_modules/src/server/next.ts:124:20)
+    at /home/clusk/clusk-net/node_modules/src/cli/next-start.ts:86:7
