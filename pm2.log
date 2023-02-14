@@ -1,0 +1,864 @@
+2023-02-10T01:11:49: PM2 log: ===============================================================================
+2023-02-10T01:11:49: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-02-10T01:11:49: PM2 log: Time                 : Fri Feb 10 2023 01:11:49 GMT+0000 (Coordinated Universal Time)
+2023-02-10T01:11:49: PM2 log: PM2 version          : 5.2.2
+2023-02-10T01:11:49: PM2 log: Node.js version      : 16.19.0
+2023-02-10T01:11:49: PM2 log: Current arch         : x64
+2023-02-10T01:11:49: PM2 log: PM2 home             : /home/clusk/.pm2
+2023-02-10T01:11:49: PM2 log: PM2 PID file         : /home/clusk/.pm2/pm2.pid
+2023-02-10T01:11:49: PM2 log: RPC socket file      : /home/clusk/.pm2/rpc.sock
+2023-02-10T01:11:49: PM2 log: BUS socket file      : /home/clusk/.pm2/pub.sock
+2023-02-10T01:11:49: PM2 log: Application log path : /home/clusk/.pm2/logs
+2023-02-10T01:11:49: PM2 log: Worker Interval      : 30000
+2023-02-10T01:11:49: PM2 log: Process dump file    : /home/clusk/.pm2/dump.pm2
+2023-02-10T01:11:49: PM2 log: Concurrent actions   : 2
+2023-02-10T01:11:49: PM2 log: SIGTERM timeout      : 1600
+2023-02-10T01:11:49: PM2 log: ===============================================================================
+2023-02-10T01:11:59: PM2 log: App [index:0] starting in -fork mode-
+2023-02-10T01:11:59: PM2 log: App [index:0] online
+2023-02-10T01:46:24: PM2 log: Stopping app:index id:0
+2023-02-10T01:46:24: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2023-02-10T01:46:24: PM2 log: pid=30622 msg=process killed
+2023-02-10T01:46:24: PM2 log: App [index:0] starting in -fork mode-
+2023-02-10T01:46:24: PM2 log: App [index:0] online
+2023-02-10T01:48:19: PM2 log: Stopping app:index id:0
+2023-02-10T01:48:19: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2023-02-10T01:48:20: PM2 log: pid=32145 msg=process killed
+2023-02-10T01:48:20: PM2 log: App [index:0] starting in -fork mode-
+2023-02-10T01:48:20: PM2 log: App [index:0] online
+2023-02-10T01:49:23: PM2 log: Stopping app:index id:0
+2023-02-10T01:49:23: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2023-02-10T01:49:23: PM2 log: pid=32191 msg=process killed
+2023-02-10T01:49:23: PM2 log: App [index:0] starting in -fork mode-
+2023-02-10T01:49:23: PM2 log: App [index:0] online
+2023-02-10T01:49:30: PM2 log: Stopping app:index id:0
+2023-02-10T01:49:30: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2023-02-10T01:49:30: PM2 log: pid=32216 msg=process killed
+2023-02-10T01:49:30: PM2 log: App [index:0] starting in -fork mode-
+2023-02-10T01:49:30: PM2 log: App [index:0] online
+2023-02-10T01:51:14: PM2 log: Stopping app:index id:0
+2023-02-10T01:51:14: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2023-02-10T01:51:14: PM2 log: pid=32258 msg=process killed
+2023-02-10T01:51:14: PM2 log: App [index:0] starting in -fork mode-
+2023-02-10T01:51:14: PM2 log: App [index:0] online
+2023-02-10T01:52:46: PM2 log: Stopping app:index id:0
+2023-02-10T01:52:46: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2023-02-10T01:52:46: PM2 log: pid=32300 msg=process killed
+2023-02-10T01:52:46: PM2 log: App [index:0] starting in -fork mode-
+2023-02-10T01:52:46: PM2 log: App [index:0] online
+2023-02-10T02:38:02: PM2 log: Stopping app:index id:0
+2023-02-10T02:38:02: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2023-02-10T02:38:03: PM2 log: pid=32338 msg=process killed
+2023-02-10T02:38:03: PM2 log: App [index:0] starting in -fork mode-
+2023-02-10T02:38:03: PM2 log: App [index:0] online
+2023-02-10T02:39:17: PM2 log: Stopping app:index id:0
+2023-02-10T02:39:17: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2023-02-10T02:39:17: PM2 log: pid=33466 msg=process killed
+2023-02-10T02:39:17: PM2 log: App [index:0] starting in -fork mode-
+2023-02-10T02:39:17: PM2 log: App [index:0] online
+2023-02-10T02:40:01: PM2 log: Stopping app:index id:0
+2023-02-10T02:40:01: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2023-02-10T02:40:01: PM2 log: pid=33506 msg=process killed
+2023-02-10T02:40:01: PM2 log: App [index:0] starting in -fork mode-
+2023-02-10T02:40:01: PM2 log: App [index:0] online
+2023-02-10T03:02:58: PM2 log: Stopping app:index id:0
+2023-02-10T03:02:58: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2023-02-10T03:02:58: PM2 log: pid=33543 msg=process killed
+2023-02-10T03:02:58: PM2 log: App [index:0] starting in -fork mode-
+2023-02-10T03:02:58: PM2 log: App [index:0] online
+2023-02-10T03:04:13: PM2 log: Stopping app:index id:0
+2023-02-10T03:04:13: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2023-02-10T03:04:14: PM2 log: pid=33754 msg=process killed
+2023-02-10T03:04:14: PM2 log: App [index:0] starting in -fork mode-
+2023-02-10T03:04:14: PM2 log: App [index:0] online
+2023-02-10T03:08:16: PM2 log: Stopping app:index id:0
+2023-02-10T03:08:16: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2023-02-10T03:08:16: PM2 log: pid=33798 msg=process killed
+2023-02-10T03:08:16: PM2 log: App [index:0] starting in -fork mode-
+2023-02-10T03:08:16: PM2 log: App [index:0] online
+2023-02-10T03:09:51: PM2 log: Stopping app:index id:0
+2023-02-10T03:09:51: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2023-02-10T03:09:51: PM2 log: pid=34086 msg=process killed
+2023-02-10T03:09:51: PM2 log: App [index:0] starting in -fork mode-
+2023-02-10T03:09:51: PM2 log: App [index:0] online
+2023-02-10T03:13:25: PM2 log: Stopping app:index id:0
+2023-02-10T03:13:25: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2023-02-10T03:13:25: PM2 log: pid=34144 msg=process killed
+2023-02-10T03:13:25: PM2 log: App [index:0] starting in -fork mode-
+2023-02-10T03:13:25: PM2 log: App [index:0] online
+2023-02-10T03:22:54: PM2 log: Stopping app:index id:0
+2023-02-10T03:22:54: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2023-02-10T03:22:54: PM2 log: pid=34216 msg=process killed
+2023-02-10T03:22:54: PM2 log: App [index:0] starting in -fork mode-
+2023-02-10T03:22:54: PM2 log: App [index:0] online
+2023-02-10T03:33:12: PM2 log: Stopping app:index id:0
+2023-02-10T03:33:12: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2023-02-10T03:33:12: PM2 log: pid=34316 msg=process killed
+2023-02-10T03:33:12: PM2 log: App [index:0] starting in -fork mode-
+2023-02-10T03:33:12: PM2 log: App [index:0] online
+2023-02-10T03:35:53: PM2 log: Stopping app:index id:0
+2023-02-10T03:35:54: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2023-02-10T03:35:54: PM2 log: pid=34902 msg=process killed
+2023-02-10T03:35:54: PM2 log: App [index:0] starting in -fork mode-
+2023-02-10T03:35:54: PM2 log: App [index:0] online
+2023-02-10T04:09:59: PM2 log: Stopping app:index id:0
+2023-02-10T04:09:59: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2023-02-10T04:10:00: PM2 log: pid=34955 msg=process killed
+2023-02-10T04:10:00: PM2 log: App [index:0] starting in -fork mode-
+2023-02-10T04:10:00: PM2 log: App [index:0] online
+2023-02-10T04:16:00: PM2 log: Stopping app:index id:0
+2023-02-10T04:16:00: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2023-02-10T04:16:00: PM2 log: pid=35259 msg=process killed
+2023-02-10T04:16:00: PM2 log: App [index:0] starting in -fork mode-
+2023-02-10T04:16:00: PM2 log: App [index:0] online
+2023-02-10T04:19:52: PM2 log: Stopping app:index id:0
+2023-02-10T04:19:52: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2023-02-10T04:19:52: PM2 log: pid=35687 msg=process killed
+2023-02-10T04:19:52: PM2 log: App [index:0] starting in -fork mode-
+2023-02-10T04:19:52: PM2 log: App [index:0] online
+2023-02-10T04:23:44: PM2 log: Stopping app:index id:0
+2023-02-10T04:23:44: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2023-02-10T04:23:44: PM2 log: pid=35732 msg=process killed
+2023-02-10T04:23:44: PM2 log: App [index:0] starting in -fork mode-
+2023-02-10T04:23:44: PM2 log: App [index:0] online
+2023-02-10T04:33:36: PM2 log: Stopping app:index id:0
+2023-02-10T04:33:36: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2023-02-10T04:33:36: PM2 log: pid=35820 msg=process killed
+2023-02-10T04:33:36: PM2 log: App [index:0] starting in -fork mode-
+2023-02-10T04:33:36: PM2 log: App [index:0] online
+2023-02-10T05:36:16: PM2 log: Stopping app:index id:0
+2023-02-10T05:36:16: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2023-02-10T05:36:17: PM2 log: pid=35933 msg=process killed
+2023-02-10T05:36:17: PM2 log: App [index:0] starting in -fork mode-
+2023-02-10T05:36:17: PM2 log: App [index:0] online
+2023-02-10T05:39:35: PM2 log: Stopping app:index id:0
+2023-02-10T05:39:35: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2023-02-10T05:39:35: PM2 log: pid=38065 msg=process killed
+2023-02-10T05:39:35: PM2 log: App [index:0] starting in -fork mode-
+2023-02-10T05:39:35: PM2 log: App [index:0] online
+2023-02-10T05:50:36: PM2 log: Stopping app:index id:0
+2023-02-10T05:50:36: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2023-02-10T05:50:36: PM2 log: pid=38201 msg=process killed
+2023-02-10T05:50:36: PM2 log: App [index:0] starting in -fork mode-
+2023-02-10T05:50:36: PM2 log: App [index:0] online
+2023-02-10T06:00:46: PM2 log: Stopping app:index id:0
+2023-02-10T06:00:46: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2023-02-10T06:00:46: PM2 log: pid=38476 msg=process killed
+2023-02-10T06:00:46: PM2 log: App [index:0] starting in -fork mode-
+2023-02-10T06:00:46: PM2 log: App [index:0] online
+2023-02-10T06:03:48: PM2 log: Stopping app:index id:0
+2023-02-10T06:03:48: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2023-02-10T06:03:48: PM2 log: pid=38732 msg=process killed
+2023-02-10T06:03:48: PM2 log: App [index:0] starting in -fork mode-
+2023-02-10T06:03:48: PM2 log: App [index:0] online
+2023-02-10T06:11:01: PM2 log: Stopping app:index id:0
+2023-02-10T06:11:01: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2023-02-10T06:11:01: PM2 log: pid=38801 msg=process killed
+2023-02-10T06:11:01: PM2 log: App [index:0] starting in -fork mode-
+2023-02-10T06:11:01: PM2 log: App [index:0] online
+2023-02-10T06:15:00: PM2 log: Stopping app:index id:0
+2023-02-10T06:15:00: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2023-02-10T06:15:00: PM2 log: pid=38912 msg=process killed
+2023-02-10T06:15:00: PM2 log: App [index:0] starting in -fork mode-
+2023-02-10T06:15:00: PM2 log: App [index:0] online
+2023-02-10T06:18:43: PM2 log: Stopping app:index id:0
+2023-02-10T06:18:43: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2023-02-10T06:18:43: PM2 log: pid=38982 msg=process killed
+2023-02-10T06:18:43: PM2 log: App [index:0] starting in -fork mode-
+2023-02-10T06:18:43: PM2 log: App [index:0] online
+2023-02-10T06:20:27: PM2 log: Stopping app:index id:0
+2023-02-10T06:20:27: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2023-02-10T06:20:27: PM2 log: pid=39049 msg=process killed
+2023-02-10T06:20:27: PM2 log: App [index:0] starting in -fork mode-
+2023-02-10T06:20:27: PM2 log: App [index:0] online
+2023-02-10T06:21:44: PM2 log: Stopping app:index id:0
+2023-02-10T06:21:44: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2023-02-10T06:21:44: PM2 log: pid=39098 msg=process killed
+2023-02-10T06:21:44: PM2 log: App [index:0] starting in -fork mode-
+2023-02-10T06:21:44: PM2 log: App [index:0] online
+2023-02-10T06:23:17: PM2 log: Stopping app:index id:0
+2023-02-10T06:23:17: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2023-02-10T06:23:17: PM2 log: pid=39143 msg=process killed
+2023-02-10T06:23:17: PM2 log: App [index:0] starting in -fork mode-
+2023-02-10T06:23:17: PM2 log: App [index:0] online
+2023-02-10T06:24:09: PM2 log: Stopping app:index id:0
+2023-02-10T06:24:09: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2023-02-10T06:24:09: PM2 log: pid=39190 msg=process killed
+2023-02-10T06:24:09: PM2 log: App [index:0] starting in -fork mode-
+2023-02-10T06:24:09: PM2 log: App [index:0] online
+2023-02-10T06:31:26: PM2 log: Stopping app:index id:0
+2023-02-10T06:31:26: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2023-02-10T06:31:26: PM2 log: pid=39232 msg=process killed
+2023-02-10T06:31:26: PM2 log: App [index:0] starting in -fork mode-
+2023-02-10T06:31:26: PM2 log: App [index:0] online
+2023-02-10T06:47:46: PM2 log: Stopping app:index id:0
+2023-02-10T06:47:46: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2023-02-10T06:47:47: PM2 log: pid=39348 msg=process killed
+2023-02-10T06:47:47: PM2 log: App [index:0] starting in -fork mode-
+2023-02-10T06:47:47: PM2 log: App [index:0] online
+2023-02-10T15:11:59: PM2 log: Stopping app:index id:0
+2023-02-10T15:11:59: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2023-02-10T15:11:59: PM2 log: pid=39503 msg=process killed
+2023-02-10T15:11:59: PM2 log: App [index:0] starting in -fork mode-
+2023-02-10T15:11:59: PM2 log: App [index:0] online
+2023-02-10T15:13:14: PM2 log: Stopping app:index id:0
+2023-02-10T15:13:14: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2023-02-10T15:13:14: PM2 log: pid=43617 msg=process killed
+2023-02-10T15:13:14: PM2 log: App [index:0] starting in -fork mode-
+2023-02-10T15:13:14: PM2 log: App [index:0] online
+2023-02-14T17:27:22: PM2 log: Stopping app:index id:0
+2023-02-14T17:27:22: PM2 log: App [index:0] exited with code [0] via signal [SIGINT]
+2023-02-14T17:27:22: PM2 log: pid=43659 msg=process killed
+2023-02-14T17:27:22: PM2 log: App [index:0] starting in -fork mode-
+2023-02-14T17:27:22: PM2 log: App [index:0] online
+2023-02-14T17:27:22: PM2 error: Error: spawn node ENOENT
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:285:19)
+    at onErrorNT (node:internal/child_process:485:16)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-02-14T17:27:22: PM2 error: Error caught while calling pidusage
+2023-02-14T17:27:22: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:27:31: PM2 error: Error caught while calling pidusage
+2023-02-14T17:27:31: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:28:01: PM2 error: Error caught while calling pidusage
+2023-02-14T17:28:01: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:28:31: PM2 error: Error caught while calling pidusage
+2023-02-14T17:28:31: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:29:01: PM2 error: Error caught while calling pidusage
+2023-02-14T17:29:01: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:29:32: PM2 error: Error caught while calling pidusage
+2023-02-14T17:29:32: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:30:02: PM2 error: Error caught while calling pidusage
+2023-02-14T17:30:02: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:30:32: PM2 error: Error caught while calling pidusage
+2023-02-14T17:30:32: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:31:02: PM2 error: Error caught while calling pidusage
+2023-02-14T17:31:02: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:31:32: PM2 error: Error caught while calling pidusage
+2023-02-14T17:31:32: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:32:02: PM2 error: Error caught while calling pidusage
+2023-02-14T17:32:02: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:32:32: PM2 error: Error caught while calling pidusage
+2023-02-14T17:32:32: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:33:02: PM2 error: Error caught while calling pidusage
+2023-02-14T17:33:02: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:33:32: PM2 error: Error caught while calling pidusage
+2023-02-14T17:33:32: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:34:02: PM2 error: Error caught while calling pidusage
+2023-02-14T17:34:02: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:34:32: PM2 error: Error caught while calling pidusage
+2023-02-14T17:34:32: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:35:02: PM2 error: Error caught while calling pidusage
+2023-02-14T17:35:02: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:35:32: PM2 error: Error caught while calling pidusage
+2023-02-14T17:35:32: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:36:02: PM2 error: Error caught while calling pidusage
+2023-02-14T17:36:02: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:36:32: PM2 error: Error caught while calling pidusage
+2023-02-14T17:36:32: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:37:02: PM2 error: Error caught while calling pidusage
+2023-02-14T17:37:02: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:37:32: PM2 error: Error caught while calling pidusage
+2023-02-14T17:37:32: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:38:02: PM2 error: Error caught while calling pidusage
+2023-02-14T17:38:02: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:38:32: PM2 error: Error caught while calling pidusage
+2023-02-14T17:38:32: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:39:02: PM2 error: Error caught while calling pidusage
+2023-02-14T17:39:02: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:39:32: PM2 error: Error caught while calling pidusage
+2023-02-14T17:39:32: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:40:02: PM2 error: Error caught while calling pidusage
+2023-02-14T17:40:02: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:40:32: PM2 error: Error caught while calling pidusage
+2023-02-14T17:40:32: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:41:02: PM2 error: Error caught while calling pidusage
+2023-02-14T17:41:02: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:41:32: PM2 error: Error caught while calling pidusage
+2023-02-14T17:41:32: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:42:02: PM2 error: Error caught while calling pidusage
+2023-02-14T17:42:02: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:42:32: PM2 error: Error caught while calling pidusage
+2023-02-14T17:42:32: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:43:02: PM2 error: Error caught while calling pidusage
+2023-02-14T17:43:02: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:43:32: PM2 error: Error caught while calling pidusage
+2023-02-14T17:43:32: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:44:02: PM2 error: Error caught while calling pidusage
+2023-02-14T17:44:02: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:44:32: PM2 error: Error caught while calling pidusage
+2023-02-14T17:44:32: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:45:02: PM2 error: Error caught while calling pidusage
+2023-02-14T17:45:02: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:45:32: PM2 error: Error caught while calling pidusage
+2023-02-14T17:45:32: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:46:02: PM2 error: Error caught while calling pidusage
+2023-02-14T17:46:02: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:46:32: PM2 error: Error caught while calling pidusage
+2023-02-14T17:46:32: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:47:02: PM2 error: Error caught while calling pidusage
+2023-02-14T17:47:02: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:47:32: PM2 error: Error caught while calling pidusage
+2023-02-14T17:47:32: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:48:02: PM2 error: Error caught while calling pidusage
+2023-02-14T17:48:02: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:48:32: PM2 error: Error caught while calling pidusage
+2023-02-14T17:48:32: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:48:55: PM2 error: Error caught while calling pidusage
+2023-02-14T17:48:55: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:49:02: PM2 error: Error caught while calling pidusage
+2023-02-14T17:49:02: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:49:32: PM2 error: Error caught while calling pidusage
+2023-02-14T17:49:32: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:50:02: PM2 error: Error caught while calling pidusage
+2023-02-14T17:50:02: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:50:32: PM2 error: Error caught while calling pidusage
+2023-02-14T17:50:32: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:51:03: PM2 error: Error caught while calling pidusage
+2023-02-14T17:51:03: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:51:33: PM2 error: Error caught while calling pidusage
+2023-02-14T17:51:33: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:52:03: PM2 error: Error caught while calling pidusage
+2023-02-14T17:52:03: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:52:09: PM2 error: Error caught while calling pidusage
+2023-02-14T17:52:09: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:52:33: PM2 error: Error caught while calling pidusage
+2023-02-14T17:52:33: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:53:03: PM2 error: Error caught while calling pidusage
+2023-02-14T17:53:03: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:53:33: PM2 error: Error caught while calling pidusage
+2023-02-14T17:53:33: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:54:03: PM2 error: Error caught while calling pidusage
+2023-02-14T17:54:03: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:54:33: PM2 error: Error caught while calling pidusage
+2023-02-14T17:54:33: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:55:03: PM2 error: Error caught while calling pidusage
+2023-02-14T17:55:03: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:55:33: PM2 error: Error caught while calling pidusage
+2023-02-14T17:55:33: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:55:52: PM2 error: Error caught while calling pidusage
+2023-02-14T17:55:52: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:55:52: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:55:52: PM2 log: App [clusk-net:1] online
+2023-02-14T17:55:52: PM2 error: Error caught while calling pidusage
+2023-02-14T17:55:52: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:55:53: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:55:53: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:55:53: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:55:53: PM2 log: App [clusk-net:1] online
+2023-02-14T17:55:54: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:55:54: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:55:54: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:55:54: PM2 log: App [clusk-net:1] online
+2023-02-14T17:55:55: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:55:55: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:55:55: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:55:55: PM2 log: App [clusk-net:1] online
+2023-02-14T17:55:56: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:55:56: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:55:56: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:55:56: PM2 log: App [clusk-net:1] online
+2023-02-14T17:55:56: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:55:56: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:55:56: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:55:57: PM2 log: App [clusk-net:1] online
+2023-02-14T17:55:57: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:55:57: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:55:57: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:55:57: PM2 log: App [clusk-net:1] online
+2023-02-14T17:55:58: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:55:58: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:55:58: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:55:58: PM2 log: App [clusk-net:1] online
+2023-02-14T17:55:59: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:55:59: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:55:59: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:55:59: PM2 log: App [clusk-net:1] online
+2023-02-14T17:56:00: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:56:00: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:56:00: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:56:00: PM2 log: App [clusk-net:1] online
+2023-02-14T17:56:01: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:56:01: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:56:01: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:56:01: PM2 log: App [clusk-net:1] online
+2023-02-14T17:56:01: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:56:01: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:56:01: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:56:01: PM2 log: App [clusk-net:1] online
+2023-02-14T17:56:02: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:56:02: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:56:02: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:56:02: PM2 log: App [clusk-net:1] online
+2023-02-14T17:56:03: PM2 error: Error caught while calling pidusage
+2023-02-14T17:56:03: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:56:03: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:56:03: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:56:03: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:56:03: PM2 log: App [clusk-net:1] online
+2023-02-14T17:56:04: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:56:04: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:56:04: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:56:04: PM2 log: App [clusk-net:1] online
+2023-02-14T17:56:05: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:56:05: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:56:05: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:56:05: PM2 log: App [clusk-net:1] online
+2023-02-14T17:56:05: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:56:05: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:56:05: PM2 log: Script /home/clusk/clusk-net/node_modules/next/dist/bin/next had too many unstable restarts (16). Stopped. "errored"
+2023-02-14T17:56:06: PM2 error: Error caught while calling pidusage
+2023-02-14T17:56:06: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:56:06: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:56:06: PM2 log: App [clusk-net:1] online
+2023-02-14T17:56:06: PM2 error: Error caught while calling pidusage
+2023-02-14T17:56:06: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:56:07: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:56:07: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:56:07: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:56:07: PM2 log: App [clusk-net:1] online
+2023-02-14T17:56:08: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:56:08: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:56:08: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:56:08: PM2 log: App [clusk-net:1] online
+2023-02-14T17:56:09: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:56:09: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:56:09: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:56:09: PM2 log: App [clusk-net:1] online
+2023-02-14T17:56:10: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:56:10: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:56:10: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:56:10: PM2 log: App [clusk-net:1] online
+2023-02-14T17:56:11: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:56:11: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:56:11: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:56:11: PM2 log: App [clusk-net:1] online
+2023-02-14T17:56:12: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:56:12: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:56:12: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:56:12: PM2 log: App [clusk-net:1] online
+2023-02-14T17:56:13: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:56:13: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:56:13: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:56:13: PM2 log: App [clusk-net:1] online
+2023-02-14T17:56:13: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:56:13: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:56:13: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:56:13: PM2 log: App [clusk-net:1] online
+2023-02-14T17:56:14: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:56:14: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:56:14: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:56:14: PM2 log: App [clusk-net:1] online
+2023-02-14T17:56:15: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:56:15: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:56:15: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:56:15: PM2 log: App [clusk-net:1] online
+2023-02-14T17:56:16: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:56:16: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:56:16: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:56:16: PM2 log: App [clusk-net:1] online
+2023-02-14T17:56:16: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:56:16: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:56:16: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:56:16: PM2 log: App [clusk-net:1] online
+2023-02-14T17:56:17: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:56:17: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:56:17: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:56:17: PM2 log: App [clusk-net:1] online
+2023-02-14T17:56:18: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:56:18: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:56:18: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:56:18: PM2 log: App [clusk-net:1] online
+2023-02-14T17:56:19: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:56:19: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:56:19: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:56:19: PM2 log: App [clusk-net:1] online
+2023-02-14T17:56:20: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:56:20: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:56:20: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:56:20: PM2 log: App [clusk-net:1] online
+2023-02-14T17:56:20: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:56:20: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:56:20: PM2 log: Script /home/clusk/clusk-net/node_modules/next/dist/bin/next had too many unstable restarts (16). Stopped. "errored"
+2023-02-14T17:56:33: PM2 error: Error caught while calling pidusage
+2023-02-14T17:56:33: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:56:35: PM2 error: Error caught while calling pidusage
+2023-02-14T17:56:35: PM2 error: TypeError: One of the pids provided is invalid
+2023-02-14T17:56:35: PM2 log: Stopping app:index id:0
+2023-02-14T17:56:35: PM2 error: app=index id=0 does not have a pid
+2023-02-14T17:56:40: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:56:40: PM2 log: App [clusk-net:1] online
+2023-02-14T17:56:41: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:56:41: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:56:41: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:56:41: PM2 log: App [clusk-net:1] online
+2023-02-14T17:56:42: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:56:42: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:56:42: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:56:42: PM2 log: App [clusk-net:1] online
+2023-02-14T17:56:43: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:56:43: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:56:43: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:56:43: PM2 log: App [clusk-net:1] online
+2023-02-14T17:56:44: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:56:44: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:56:44: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:56:44: PM2 log: App [clusk-net:1] online
+2023-02-14T17:56:44: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:56:44: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:56:44: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:56:44: PM2 log: App [clusk-net:1] online
+2023-02-14T17:56:45: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:56:45: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:56:45: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:56:45: PM2 log: App [clusk-net:1] online
+2023-02-14T17:56:46: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:56:46: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:56:46: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:56:46: PM2 log: App [clusk-net:1] online
+2023-02-14T17:56:47: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:56:47: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:56:47: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:56:47: PM2 log: App [clusk-net:1] online
+2023-02-14T17:56:48: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:56:48: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:56:48: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:56:48: PM2 log: App [clusk-net:1] online
+2023-02-14T17:56:48: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:56:48: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:56:48: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:56:48: PM2 log: App [clusk-net:1] online
+2023-02-14T17:56:49: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:56:49: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:56:49: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:56:49: PM2 log: App [clusk-net:1] online
+2023-02-14T17:56:50: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:56:50: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:56:50: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:56:50: PM2 log: App [clusk-net:1] online
+2023-02-14T17:56:51: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:56:51: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:56:51: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:56:51: PM2 log: App [clusk-net:1] online
+2023-02-14T17:56:51: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:56:51: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:56:51: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:56:51: PM2 log: App [clusk-net:1] online
+2023-02-14T17:56:52: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:56:52: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:56:52: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:56:52: PM2 log: App [clusk-net:1] online
+2023-02-14T17:56:53: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:56:53: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:56:53: PM2 log: Script /home/clusk/clusk-net/node_modules/next/dist/bin/next had too many unstable restarts (16). Stopped. "errored"
+2023-02-14T17:58:45: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:58:45: PM2 log: App [clusk-net:1] online
+2023-02-14T17:58:46: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:58:46: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:58:46: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:58:46: PM2 log: App [clusk-net:1] online
+2023-02-14T17:58:46: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:58:46: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:58:46: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:58:46: PM2 log: App [clusk-net:1] online
+2023-02-14T17:58:47: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:58:47: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:58:47: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:58:47: PM2 log: App [clusk-net:1] online
+2023-02-14T17:58:48: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:58:48: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:58:48: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:58:48: PM2 log: App [clusk-net:1] online
+2023-02-14T17:58:49: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:58:49: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:58:49: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:58:49: PM2 log: App [clusk-net:1] online
+2023-02-14T17:58:50: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:58:50: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:58:50: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:58:50: PM2 log: App [clusk-net:1] online
+2023-02-14T17:58:50: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:58:50: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:58:50: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:58:50: PM2 log: App [clusk-net:1] online
+2023-02-14T17:58:52: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:58:52: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:58:52: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:58:52: PM2 log: App [clusk-net:1] online
+2023-02-14T17:58:53: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:58:53: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:58:53: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:58:53: PM2 log: App [clusk-net:1] online
+2023-02-14T17:58:54: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:58:54: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:58:54: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:58:54: PM2 log: App [clusk-net:1] online
+2023-02-14T17:58:55: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:58:55: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:58:55: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:58:55: PM2 log: App [clusk-net:1] online
+2023-02-14T17:58:56: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:58:56: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:58:56: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:58:56: PM2 log: App [clusk-net:1] online
+2023-02-14T17:58:57: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:58:57: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:58:57: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:58:57: PM2 log: App [clusk-net:1] online
+2023-02-14T17:58:57: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:58:57: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:58:57: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:58:57: PM2 log: App [clusk-net:1] online
+2023-02-14T17:58:58: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:58:58: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:58:58: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:58:58: PM2 log: App [clusk-net:1] online
+2023-02-14T17:58:58: PM2 log: Stopping app:clusk-net id:1
+2023-02-14T17:58:59: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:58:59: PM2 error: Cancelling versioning data parsing
+2023-02-14T17:58:59: PM2 log: App [clusk-net:1] exited with code [0] via signal [SIGINT]
+2023-02-14T17:58:59: PM2 log: pid=98281 msg=process killed
+2023-02-14T17:58:59: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:58:59: PM2 log: App [clusk-net:1] online
+2023-02-14T17:58:59: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:58:59: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:58:59: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:58:59: PM2 log: App [clusk-net:1] online
+2023-02-14T17:59:00: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:59:00: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:59:00: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:59:00: PM2 log: App [clusk-net:1] online
+2023-02-14T17:59:01: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:59:01: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:59:01: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:59:01: PM2 log: App [clusk-net:1] online
+2023-02-14T17:59:02: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:59:02: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:59:02: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:59:02: PM2 log: App [clusk-net:1] online
+2023-02-14T17:59:02: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:59:02: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:59:02: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:59:02: PM2 log: App [clusk-net:1] online
+2023-02-14T17:59:03: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:59:03: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:59:03: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:59:03: PM2 log: App [clusk-net:1] online
+2023-02-14T17:59:04: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:59:04: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:59:04: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:59:04: PM2 log: App [clusk-net:1] online
+2023-02-14T17:59:04: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:59:04: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:59:04: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:59:04: PM2 log: App [clusk-net:1] online
+2023-02-14T17:59:05: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:59:05: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:59:05: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:59:05: PM2 log: App [clusk-net:1] online
+2023-02-14T17:59:06: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:59:06: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:59:06: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:59:06: PM2 log: App [clusk-net:1] online
+2023-02-14T17:59:07: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:59:07: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:59:07: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:59:07: PM2 log: App [clusk-net:1] online
+2023-02-14T17:59:07: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:59:07: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:59:07: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:59:07: PM2 log: App [clusk-net:1] online
+2023-02-14T17:59:08: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:59:08: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:59:08: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:59:08: PM2 log: App [clusk-net:1] online
+2023-02-14T17:59:09: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:59:09: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:59:09: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T17:59:09: PM2 log: App [clusk-net:1] online
+2023-02-14T17:59:09: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T17:59:09: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T17:59:09: PM2 log: Script /home/clusk/clusk-net/node_modules/next/dist/bin/next had too many unstable restarts (16). Stopped. "errored"
+2023-02-14T18:01:47: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T18:01:47: PM2 log: App [clusk-net:1] online
+2023-02-14T18:01:48: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T18:01:48: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T18:01:48: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T18:01:48: PM2 log: App [clusk-net:1] online
+2023-02-14T18:01:49: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T18:01:49: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T18:01:49: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T18:01:49: PM2 log: App [clusk-net:1] online
+2023-02-14T18:01:50: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T18:01:50: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T18:01:50: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T18:01:50: PM2 log: App [clusk-net:1] online
+2023-02-14T18:01:50: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T18:01:50: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T18:01:50: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T18:01:50: PM2 log: App [clusk-net:1] online
+2023-02-14T18:01:51: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T18:01:51: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T18:01:51: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T18:01:51: PM2 log: App [clusk-net:1] online
+2023-02-14T18:01:52: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T18:01:52: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T18:01:52: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T18:01:52: PM2 log: App [clusk-net:1] online
+2023-02-14T18:01:52: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T18:01:52: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T18:01:52: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T18:01:52: PM2 log: App [clusk-net:1] online
+2023-02-14T18:01:53: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T18:01:53: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T18:01:53: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T18:01:53: PM2 log: App [clusk-net:1] online
+2023-02-14T18:01:54: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T18:01:54: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T18:01:54: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T18:01:54: PM2 log: App [clusk-net:1] online
+2023-02-14T18:01:55: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T18:01:55: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T18:01:55: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T18:01:55: PM2 log: App [clusk-net:1] online
+2023-02-14T18:01:56: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T18:01:56: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T18:01:56: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T18:01:56: PM2 log: App [clusk-net:1] online
+2023-02-14T18:01:56: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T18:01:56: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T18:01:56: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T18:01:56: PM2 log: App [clusk-net:1] online
+2023-02-14T18:01:57: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T18:01:57: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T18:01:57: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T18:01:57: PM2 log: App [clusk-net:1] online
+2023-02-14T18:01:58: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T18:01:58: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T18:01:58: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T18:01:58: PM2 log: App [clusk-net:1] online
+2023-02-14T18:01:58: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T18:01:58: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T18:01:58: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T18:01:58: PM2 log: App [clusk-net:1] online
+2023-02-14T18:01:59: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T18:01:59: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T18:01:59: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T18:01:59: PM2 log: App [clusk-net:1] online
+2023-02-14T18:02:00: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T18:02:00: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T18:02:00: PM2 log: Script /home/clusk/clusk-net/node_modules/next/dist/bin/next had too many unstable restarts (16). Stopped. "errored"
+2023-02-14T18:06:07: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T18:06:07: PM2 log: App [clusk-net:1] online
+2023-02-14T18:06:08: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T18:06:08: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T18:06:08: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T18:06:08: PM2 log: App [clusk-net:1] online
+2023-02-14T18:06:08: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T18:06:08: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T18:06:08: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T18:06:08: PM2 log: App [clusk-net:1] online
+2023-02-14T18:06:09: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T18:06:09: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T18:06:09: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T18:06:09: PM2 log: App [clusk-net:1] online
+2023-02-14T18:06:10: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T18:06:10: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T18:06:10: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T18:06:10: PM2 log: App [clusk-net:1] online
+2023-02-14T18:06:11: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T18:06:11: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T18:06:11: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T18:06:11: PM2 log: App [clusk-net:1] online
+2023-02-14T18:06:11: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T18:06:11: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T18:06:11: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T18:06:11: PM2 log: App [clusk-net:1] online
+2023-02-14T18:06:12: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T18:06:12: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T18:06:12: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T18:06:12: PM2 log: App [clusk-net:1] online
+2023-02-14T18:06:13: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T18:06:13: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T18:06:13: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T18:06:13: PM2 log: App [clusk-net:1] online
+2023-02-14T18:06:13: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T18:06:13: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T18:06:13: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T18:06:13: PM2 log: App [clusk-net:1] online
+2023-02-14T18:06:14: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T18:06:14: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T18:06:14: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T18:06:14: PM2 log: App [clusk-net:1] online
+2023-02-14T18:06:15: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T18:06:15: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T18:06:15: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T18:06:15: PM2 log: App [clusk-net:1] online
+2023-02-14T18:06:16: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T18:06:16: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T18:06:16: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T18:06:16: PM2 log: App [clusk-net:1] online
+2023-02-14T18:06:16: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T18:06:16: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T18:06:16: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T18:06:16: PM2 log: App [clusk-net:1] online
+2023-02-14T18:06:17: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T18:06:17: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T18:06:17: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T18:06:17: PM2 log: App [clusk-net:1] online
+2023-02-14T18:06:18: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T18:06:18: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T18:06:18: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T18:06:18: PM2 log: App [clusk-net:1] online
+2023-02-14T18:06:19: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T18:06:19: PM2 log: App [clusk-net:1] exited with code [1] via signal [SIGINT]
+2023-02-14T18:06:19: PM2 log: Script /home/clusk/clusk-net/node_modules/next/dist/bin/next had too many unstable restarts (16). Stopped. "errored"
+2023-02-14T18:08:18: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T18:08:18: PM2 log: App [clusk-net:1] online
+2023-02-14T18:08:37: PM2 log: Stopping app:clusk-net id:1
+2023-02-14T18:08:37: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T18:08:37: PM2 log: App [clusk-net:1] exited with code [0] via signal [SIGINT]
+2023-02-14T18:08:37: PM2 log: pid=99453 msg=process killed
+2023-02-14T18:08:37: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T18:08:37: PM2 log: App [clusk-net:1] online
+2023-02-14T18:11:49: PM2 log: Stopping app:clusk-net id:1
+2023-02-14T18:11:49: PM2 log: App name:clusk-net id:1 disconnected
+2023-02-14T18:11:49: PM2 log: App [clusk-net:1] exited with code [0] via signal [SIGINT]
+2023-02-14T18:11:49: PM2 log: pid=99472 msg=process killed
+2023-02-14T18:11:49: PM2 log: App [clusk-net:1] starting in -cluster mode-
+2023-02-14T18:11:49: PM2 log: App [clusk-net:1] online
+2023-02-14T18:13:24: PM2 log: ===============================================================================
+2023-02-14T18:13:24: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-02-14T18:13:24: PM2 log: Time                 : Tue Feb 14 2023 18:13:24 GMT+0000 (Coordinated Universal Time)
+2023-02-14T18:13:24: PM2 log: PM2 version          : 5.2.2
+2023-02-14T18:13:24: PM2 log: Node.js version      : 16.19.0
+2023-02-14T18:13:24: PM2 log: Current arch         : x64
+2023-02-14T18:13:24: PM2 log: PM2 home             : /home/clusk/.pm2
+2023-02-14T18:13:24: PM2 log: PM2 PID file         : /home/clusk/.pm2/pm2.pid
+2023-02-14T18:13:24: PM2 log: RPC socket file      : /home/clusk/.pm2/rpc.sock
+2023-02-14T18:13:24: PM2 log: BUS socket file      : /home/clusk/.pm2/pub.sock
+2023-02-14T18:13:24: PM2 log: Application log path : /home/clusk/.pm2/logs
+2023-02-14T18:13:24: PM2 log: Worker Interval      : 30000
+2023-02-14T18:13:24: PM2 log: Process dump file    : /home/clusk/.pm2/dump.pm2
+2023-02-14T18:13:24: PM2 log: Concurrent actions   : 2
+2023-02-14T18:13:24: PM2 log: SIGTERM timeout      : 1600
+2023-02-14T18:13:24: PM2 log: ===============================================================================
+2023-02-14T18:16:24: PM2 log: App [clusk-net:0] starting in -cluster mode-
+2023-02-14T18:16:24: PM2 log: App [clusk-net:0] online
+2023-02-14T18:19:12: PM2 log: Stopping app:clusk-net id:0
+2023-02-14T18:19:12: PM2 log: App name:clusk-net id:0 disconnected
+2023-02-14T18:19:12: PM2 log: App [clusk-net:0] exited with code [0] via signal [SIGINT]
+2023-02-14T18:19:12: PM2 log: pid=2069 msg=process killed
+2023-02-14T18:19:12: PM2 log: App [clusk-net:0] starting in -cluster mode-
+2023-02-14T18:19:12: PM2 log: App [clusk-net:0] online
+2023-02-14T18:19:20: PM2 log: Stopping app:clusk-net id:0
+2023-02-14T18:19:20: PM2 log: App name:clusk-net id:0 disconnected
+2023-02-14T18:19:20: PM2 log: App [clusk-net:0] exited with code [0] via signal [SIGINT]
+2023-02-14T18:19:20: PM2 log: pid=2190 msg=process killed
+2023-02-14T18:19:20: PM2 log: App [clusk-net:0] starting in -cluster mode-
+2023-02-14T18:19:20: PM2 log: App [clusk-net:0] online
+2023-02-14T18:19:40: PM2 log: Stopping app:clusk-net id:0
+2023-02-14T18:19:40: PM2 log: App name:clusk-net id:0 disconnected
+2023-02-14T18:19:40: PM2 log: App [clusk-net:0] exited with code [0] via signal [SIGINT]
+2023-02-14T18:19:40: PM2 log: pid=2213 msg=process killed
+2023-02-14T18:19:40: PM2 log: App [clusk-net:0] starting in -cluster mode-
+2023-02-14T18:19:40: PM2 log: App [clusk-net:0] online
