@@ -1,143 +1,118 @@
-2023-02-14T18:31:22: PM2 log: ===============================================================================
-2023-02-14T18:31:22: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
-2023-02-14T18:31:22: PM2 log: Time                 : Tue Feb 14 2023 18:31:22 GMT+0000 (Coordinated Universal Time)
-2023-02-14T18:31:22: PM2 log: PM2 version          : 5.2.2
-2023-02-14T18:31:22: PM2 log: Node.js version      : 16.19.0
-2023-02-14T18:31:22: PM2 log: Current arch         : x64
-2023-02-14T18:31:22: PM2 log: PM2 home             : /home/clusk/.pm2
-2023-02-14T18:31:22: PM2 log: PM2 PID file         : /home/clusk/.pm2/pm2.pid
-2023-02-14T18:31:22: PM2 log: RPC socket file      : /home/clusk/.pm2/rpc.sock
-2023-02-14T18:31:22: PM2 log: BUS socket file      : /home/clusk/.pm2/pub.sock
-2023-02-14T18:31:22: PM2 log: Application log path : /home/clusk/.pm2/logs
-2023-02-14T18:31:22: PM2 log: Worker Interval      : 30000
-2023-02-14T18:31:22: PM2 log: Process dump file    : /home/clusk/.pm2/dump.pm2
-2023-02-14T18:31:22: PM2 log: Concurrent actions   : 2
-2023-02-14T18:31:22: PM2 log: SIGTERM timeout      : 1600
-2023-02-14T18:31:22: PM2 log: ===============================================================================
-2023-02-14T18:31:44: PM2 log: App [npm:0] starting in -fork mode-
-2023-02-14T18:31:44: PM2 log: App [npm:0] online
-2023-02-14T18:31:45: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
-2023-02-14T18:31:45: PM2 log: App [npm:0] starting in -fork mode-
-2023-02-14T18:31:45: PM2 log: App [npm:0] online
-2023-02-14T18:31:45: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
-2023-02-14T18:31:45: PM2 log: App [npm:0] starting in -fork mode-
-2023-02-14T18:31:45: PM2 log: App [npm:0] online
-2023-02-14T18:31:46: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
-2023-02-14T18:31:46: PM2 log: App [npm:0] starting in -fork mode-
-2023-02-14T18:31:46: PM2 log: App [npm:0] online
-2023-02-14T18:31:47: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
-2023-02-14T18:31:47: PM2 log: App [npm:0] starting in -fork mode-
-2023-02-14T18:31:47: PM2 log: App [npm:0] online
-2023-02-14T18:31:47: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
-2023-02-14T18:31:47: PM2 log: App [npm:0] starting in -fork mode-
-2023-02-14T18:31:47: PM2 log: App [npm:0] online
-2023-02-14T18:31:48: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
-2023-02-14T18:31:48: PM2 log: App [npm:0] starting in -fork mode-
-2023-02-14T18:31:48: PM2 log: App [npm:0] online
-2023-02-14T18:31:49: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
-2023-02-14T18:31:49: PM2 log: App [npm:0] starting in -fork mode-
-2023-02-14T18:31:49: PM2 log: App [npm:0] online
-2023-02-14T18:31:49: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
-2023-02-14T18:31:49: PM2 log: App [npm:0] starting in -fork mode-
-2023-02-14T18:31:49: PM2 log: App [npm:0] online
-2023-02-14T18:31:50: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
-2023-02-14T18:31:50: PM2 log: App [npm:0] starting in -fork mode-
-2023-02-14T18:31:50: PM2 log: App [npm:0] online
-2023-02-14T18:31:51: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
-2023-02-14T18:31:51: PM2 log: App [npm:0] starting in -fork mode-
-2023-02-14T18:31:51: PM2 log: App [npm:0] online
-2023-02-14T18:31:51: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
-2023-02-14T18:31:51: PM2 log: App [npm:0] starting in -fork mode-
-2023-02-14T18:31:51: PM2 log: App [npm:0] online
-2023-02-14T18:31:52: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
-2023-02-14T18:31:52: PM2 log: App [npm:0] starting in -fork mode-
-2023-02-14T18:31:52: PM2 log: App [npm:0] online
-2023-02-14T18:31:53: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
-2023-02-14T18:31:53: PM2 log: App [npm:0] starting in -fork mode-
-2023-02-14T18:31:53: PM2 log: App [npm:0] online
-2023-02-14T18:31:53: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
-2023-02-14T18:31:53: PM2 log: App [npm:0] starting in -fork mode-
-2023-02-14T18:31:53: PM2 log: App [npm:0] online
-2023-02-14T18:31:54: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
-2023-02-14T18:31:54: PM2 log: App [npm:0] starting in -fork mode-
-2023-02-14T18:31:54: PM2 log: App [npm:0] online
-2023-02-14T18:31:54: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
-2023-02-14T18:31:54: PM2 log: Script /usr/bin/npm had too many unstable restarts (16). Stopped. "errored"
-2023-02-14T18:32:02: PM2 log: App [nodesource_setup:1] starting in -fork mode-
-2023-02-14T18:32:02: PM2 log: App [nodesource_setup:1] online
-2023-02-14T18:32:02: PM2 log: App [nodesource_setup:1] exited with code [1] via signal [SIGINT]
-2023-02-14T18:32:02: PM2 log: App [nodesource_setup:1] starting in -fork mode-
-2023-02-14T18:32:03: PM2 log: App [nodesource_setup:1] online
-2023-02-14T18:32:03: PM2 log: App [nodesource_setup:1] exited with code [1] via signal [SIGINT]
-2023-02-14T18:32:03: PM2 log: App [nodesource_setup:1] starting in -fork mode-
-2023-02-14T18:32:03: PM2 log: App [nodesource_setup:1] online
-2023-02-14T18:32:03: PM2 log: App [nodesource_setup:1] exited with code [1] via signal [SIGINT]
-2023-02-14T18:32:03: PM2 log: App [nodesource_setup:1] starting in -fork mode-
-2023-02-14T18:32:03: PM2 log: App [nodesource_setup:1] online
-2023-02-14T18:32:03: PM2 log: App [nodesource_setup:1] exited with code [1] via signal [SIGINT]
-2023-02-14T18:32:03: PM2 log: App [nodesource_setup:1] starting in -fork mode-
-2023-02-14T18:32:03: PM2 log: App [nodesource_setup:1] online
-2023-02-14T18:32:03: PM2 log: App [nodesource_setup:1] exited with code [1] via signal [SIGINT]
-2023-02-14T18:32:03: PM2 log: App [nodesource_setup:1] starting in -fork mode-
-2023-02-14T18:32:03: PM2 log: App [nodesource_setup:1] online
-2023-02-14T18:32:03: PM2 log: App [nodesource_setup:1] exited with code [1] via signal [SIGINT]
-2023-02-14T18:32:03: PM2 log: App [nodesource_setup:1] starting in -fork mode-
-2023-02-14T18:32:03: PM2 log: App [nodesource_setup:1] online
-2023-02-14T18:32:03: PM2 log: App [nodesource_setup:1] exited with code [1] via signal [SIGINT]
-2023-02-14T18:32:03: PM2 log: App [nodesource_setup:1] starting in -fork mode-
-2023-02-14T18:32:03: PM2 log: App [nodesource_setup:1] online
-2023-02-14T18:32:03: PM2 log: App [nodesource_setup:1] exited with code [1] via signal [SIGINT]
-2023-02-14T18:32:03: PM2 log: App [nodesource_setup:1] starting in -fork mode-
-2023-02-14T18:32:03: PM2 log: App [nodesource_setup:1] online
-2023-02-14T18:32:03: PM2 log: App [nodesource_setup:1] exited with code [1] via signal [SIGINT]
-2023-02-14T18:32:03: PM2 log: App [nodesource_setup:1] starting in -fork mode-
-2023-02-14T18:32:03: PM2 log: App [nodesource_setup:1] online
-2023-02-14T18:32:03: PM2 log: App [nodesource_setup:1] exited with code [1] via signal [SIGINT]
-2023-02-14T18:32:03: PM2 log: App [nodesource_setup:1] starting in -fork mode-
-2023-02-14T18:32:03: PM2 log: App [nodesource_setup:1] online
-2023-02-14T18:32:03: PM2 log: App [nodesource_setup:1] exited with code [1] via signal [SIGINT]
-2023-02-14T18:32:03: PM2 log: App [nodesource_setup:1] starting in -fork mode-
-2023-02-14T18:32:03: PM2 log: App [nodesource_setup:1] online
-2023-02-14T18:32:03: PM2 log: App [nodesource_setup:1] exited with code [1] via signal [SIGINT]
-2023-02-14T18:32:03: PM2 log: App [nodesource_setup:1] starting in -fork mode-
-2023-02-14T18:32:03: PM2 log: App [nodesource_setup:1] online
-2023-02-14T18:32:04: PM2 log: App [nodesource_setup:1] exited with code [1] via signal [SIGINT]
-2023-02-14T18:32:04: PM2 log: App [nodesource_setup:1] starting in -fork mode-
-2023-02-14T18:32:04: PM2 log: App [nodesource_setup:1] online
-2023-02-14T18:32:04: PM2 log: App [nodesource_setup:1] exited with code [1] via signal [SIGINT]
-2023-02-14T18:32:04: PM2 log: App [nodesource_setup:1] starting in -fork mode-
-2023-02-14T18:32:04: PM2 log: App [nodesource_setup:1] online
-2023-02-14T18:32:04: PM2 log: App [nodesource_setup:1] exited with code [1] via signal [SIGINT]
-2023-02-14T18:32:04: PM2 log: App [nodesource_setup:1] starting in -fork mode-
-2023-02-14T18:32:04: PM2 log: App [nodesource_setup:1] online
-2023-02-14T18:32:04: PM2 log: App [nodesource_setup:1] exited with code [1] via signal [SIGINT]
-2023-02-14T18:32:04: PM2 log: Script /home/clusk/nodesource_setup.sh had too many unstable restarts (16). Stopped. "errored"
-2023-02-14T18:32:14: PM2 log: Stopping app:npm id:0
-2023-02-14T18:32:14: PM2 error: app=npm id=0 does not have a pid
-2023-02-14T18:32:14: PM2 log: Stopping app:nodesource_setup id:1
-2023-02-14T18:32:14: PM2 error: app=nodesource_setup id=1 does not have a pid
-2023-02-14T18:32:15: PM2 log: PM2 successfully stopped
-2023-02-14T18:32:16: PM2 log: ===============================================================================
-2023-02-14T18:32:16: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
-2023-02-14T18:32:16: PM2 log: Time                 : Tue Feb 14 2023 18:32:16 GMT+0000 (Coordinated Universal Time)
-2023-02-14T18:32:16: PM2 log: PM2 version          : 5.2.2
-2023-02-14T18:32:16: PM2 log: Node.js version      : 16.19.0
-2023-02-14T18:32:16: PM2 log: Current arch         : x64
-2023-02-14T18:32:16: PM2 log: PM2 home             : /home/clusk/.pm2
-2023-02-14T18:32:16: PM2 log: PM2 PID file         : /home/clusk/.pm2/pm2.pid
-2023-02-14T18:32:16: PM2 log: RPC socket file      : /home/clusk/.pm2/rpc.sock
-2023-02-14T18:32:16: PM2 log: BUS socket file      : /home/clusk/.pm2/pub.sock
-2023-02-14T18:32:16: PM2 log: Application log path : /home/clusk/.pm2/logs
-2023-02-14T18:32:16: PM2 log: Worker Interval      : 30000
-2023-02-14T18:32:16: PM2 log: Process dump file    : /home/clusk/.pm2/dump.pm2
-2023-02-14T18:32:16: PM2 log: Concurrent actions   : 2
-2023-02-14T18:32:16: PM2 log: SIGTERM timeout      : 1600
-2023-02-14T18:32:16: PM2 log: ===============================================================================
-2023-02-14T18:32:21: PM2 log: App [clusk-net:0] starting in -cluster mode-
-2023-02-14T18:32:21: PM2 log: App [clusk-net:0] online
-2023-02-14T18:33:30: PM2 log: Stopping app:clusk-net id:0
-2023-02-14T18:33:30: PM2 log: App name:clusk-net id:0 disconnected
-2023-02-14T18:33:30: PM2 log: App [clusk-net:0] exited with code [0] via signal [SIGINT]
-2023-02-14T18:33:30: PM2 log: pid=2942 msg=process killed
-2023-02-14T18:33:30: PM2 log: App [clusk-net:0] starting in -cluster mode-
-2023-02-14T18:33:30: PM2 log: App [clusk-net:0] online
+2023-02-15T17:46:14: PM2 log: ===============================================================================
+2023-02-15T17:46:14: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-02-15T17:46:14: PM2 log: Time                 : Wed Feb 15 2023 17:46:14 GMT+0000 (Coordinated Universal Time)
+2023-02-15T17:46:14: PM2 log: PM2 version          : 5.2.2
+2023-02-15T17:46:14: PM2 log: Node.js version      : 16.19.0
+2023-02-15T17:46:14: PM2 log: Current arch         : x64
+2023-02-15T17:46:14: PM2 log: PM2 home             : /home/clusk/.pm2
+2023-02-15T17:46:14: PM2 log: PM2 PID file         : /home/clusk/.pm2/pm2.pid
+2023-02-15T17:46:14: PM2 log: RPC socket file      : /home/clusk/.pm2/rpc.sock
+2023-02-15T17:46:14: PM2 log: BUS socket file      : /home/clusk/.pm2/pub.sock
+2023-02-15T17:46:14: PM2 log: Application log path : /home/clusk/.pm2/logs
+2023-02-15T17:46:14: PM2 log: Worker Interval      : 30000
+2023-02-15T17:46:14: PM2 log: Process dump file    : /home/clusk/.pm2/dump.pm2
+2023-02-15T17:46:14: PM2 log: Concurrent actions   : 2
+2023-02-15T17:46:14: PM2 log: SIGTERM timeout      : 1600
+2023-02-15T17:46:14: PM2 log: ===============================================================================
+2023-02-15T17:46:28: PM2 log: App [nextapp:0] starting in -fork mode-
+2023-02-15T17:46:28: PM2 log: App [nextapp:0] online
+2023-02-15T17:46:29: PM2 log: App [nextapp:0] exited with code [1] via signal [SIGINT]
+2023-02-15T17:46:29: PM2 log: App [nextapp:0] starting in -fork mode-
+2023-02-15T17:46:29: PM2 log: App [nextapp:0] online
+2023-02-15T17:46:30: PM2 log: App [nextapp:0] exited with code [1] via signal [SIGINT]
+2023-02-15T17:46:30: PM2 log: App [nextapp:0] starting in -fork mode-
+2023-02-15T17:46:30: PM2 log: App [nextapp:0] online
+2023-02-15T17:46:30: PM2 log: App [nextapp:0] exited with code [1] via signal [SIGINT]
+2023-02-15T17:46:30: PM2 log: App [nextapp:0] starting in -fork mode-
+2023-02-15T17:46:30: PM2 log: App [nextapp:0] online
+2023-02-15T17:46:31: PM2 log: App [nextapp:0] exited with code [1] via signal [SIGINT]
+2023-02-15T17:46:31: PM2 log: App [nextapp:0] starting in -fork mode-
+2023-02-15T17:46:31: PM2 log: App [nextapp:0] online
+2023-02-15T17:46:32: PM2 log: App [nextapp:0] exited with code [1] via signal [SIGINT]
+2023-02-15T17:46:32: PM2 log: App [nextapp:0] starting in -fork mode-
+2023-02-15T17:46:32: PM2 log: App [nextapp:0] online
+2023-02-15T17:46:32: PM2 log: App [nextapp:0] exited with code [1] via signal [SIGINT]
+2023-02-15T17:46:32: PM2 log: App [nextapp:0] starting in -fork mode-
+2023-02-15T17:46:32: PM2 log: App [nextapp:0] online
+2023-02-15T17:46:33: PM2 log: App [nextapp:0] exited with code [1] via signal [SIGINT]
+2023-02-15T17:46:33: PM2 log: App [nextapp:0] starting in -fork mode-
+2023-02-15T17:46:33: PM2 log: App [nextapp:0] online
+2023-02-15T17:46:33: PM2 log: App [nextapp:0] exited with code [1] via signal [SIGINT]
+2023-02-15T17:46:33: PM2 log: App [nextapp:0] starting in -fork mode-
+2023-02-15T17:46:33: PM2 log: App [nextapp:0] online
+2023-02-15T17:46:34: PM2 log: App [nextapp:0] exited with code [1] via signal [SIGINT]
+2023-02-15T17:46:34: PM2 log: App [nextapp:0] starting in -fork mode-
+2023-02-15T17:46:34: PM2 log: App [nextapp:0] online
+2023-02-15T17:46:35: PM2 log: App [nextapp:0] exited with code [1] via signal [SIGINT]
+2023-02-15T17:46:35: PM2 log: App [nextapp:0] starting in -fork mode-
+2023-02-15T17:46:35: PM2 log: App [nextapp:0] online
+2023-02-15T17:46:35: PM2 log: App [nextapp:0] exited with code [1] via signal [SIGINT]
+2023-02-15T17:46:35: PM2 log: App [nextapp:0] starting in -fork mode-
+2023-02-15T17:46:35: PM2 log: App [nextapp:0] online
+2023-02-15T17:46:36: PM2 log: App [nextapp:0] exited with code [1] via signal [SIGINT]
+2023-02-15T17:46:36: PM2 log: App [nextapp:0] starting in -fork mode-
+2023-02-15T17:46:36: PM2 log: App [nextapp:0] online
+2023-02-15T17:46:36: PM2 log: App [nextapp:0] exited with code [1] via signal [SIGINT]
+2023-02-15T17:46:36: PM2 log: App [nextapp:0] starting in -fork mode-
+2023-02-15T17:46:36: PM2 log: App [nextapp:0] online
+2023-02-15T17:46:37: PM2 log: App [nextapp:0] exited with code [1] via signal [SIGINT]
+2023-02-15T17:46:37: PM2 log: App [nextapp:0] starting in -fork mode-
+2023-02-15T17:46:37: PM2 log: App [nextapp:0] online
+2023-02-15T17:46:37: PM2 log: App [nextapp:0] exited with code [1] via signal [SIGINT]
+2023-02-15T17:46:37: PM2 log: App [nextapp:0] starting in -fork mode-
+2023-02-15T17:46:37: PM2 log: App [nextapp:0] online
+2023-02-15T17:46:38: PM2 log: App [nextapp:0] exited with code [1] via signal [SIGINT]
+2023-02-15T17:46:38: PM2 log: Script /usr/bin/npm had too many unstable restarts (16). Stopped. "errored"
+2023-02-15T17:47:35: PM2 log: App [nextapp:1] starting in -fork mode-
+2023-02-15T17:47:35: PM2 log: App [nextapp:1] online
+2023-02-15T17:47:36: PM2 log: App [nextapp:1] exited with code [1] via signal [SIGINT]
+2023-02-15T17:47:36: PM2 log: App [nextapp:1] starting in -fork mode-
+2023-02-15T17:47:36: PM2 log: App [nextapp:1] online
+2023-02-15T17:47:37: PM2 log: App [nextapp:1] exited with code [1] via signal [SIGINT]
+2023-02-15T17:47:37: PM2 log: App [nextapp:1] starting in -fork mode-
+2023-02-15T17:47:37: PM2 log: App [nextapp:1] online
+2023-02-15T17:47:37: PM2 log: App [nextapp:1] exited with code [1] via signal [SIGINT]
+2023-02-15T17:47:37: PM2 log: App [nextapp:1] starting in -fork mode-
+2023-02-15T17:47:37: PM2 log: App [nextapp:1] online
+2023-02-15T17:47:38: PM2 log: App [nextapp:1] exited with code [1] via signal [SIGINT]
+2023-02-15T17:47:38: PM2 log: App [nextapp:1] starting in -fork mode-
+2023-02-15T17:47:38: PM2 log: App [nextapp:1] online
+2023-02-15T17:47:38: PM2 log: App [nextapp:1] exited with code [1] via signal [SIGINT]
+2023-02-15T17:47:38: PM2 log: App [nextapp:1] starting in -fork mode-
+2023-02-15T17:47:38: PM2 log: App [nextapp:1] online
+2023-02-15T17:47:39: PM2 log: App [nextapp:1] exited with code [1] via signal [SIGINT]
+2023-02-15T17:47:39: PM2 log: App [nextapp:1] starting in -fork mode-
+2023-02-15T17:47:39: PM2 log: App [nextapp:1] online
+2023-02-15T17:47:39: PM2 log: App [nextapp:1] exited with code [1] via signal [SIGINT]
+2023-02-15T17:47:39: PM2 log: App [nextapp:1] starting in -fork mode-
+2023-02-15T17:47:39: PM2 log: App [nextapp:1] online
+2023-02-15T17:47:40: PM2 log: App [nextapp:1] exited with code [1] via signal [SIGINT]
+2023-02-15T17:47:40: PM2 log: App [nextapp:1] starting in -fork mode-
+2023-02-15T17:47:40: PM2 log: App [nextapp:1] online
+2023-02-15T17:47:41: PM2 log: App [nextapp:1] exited with code [1] via signal [SIGINT]
+2023-02-15T17:47:41: PM2 log: App [nextapp:1] starting in -fork mode-
+2023-02-15T17:47:41: PM2 log: App [nextapp:1] online
+2023-02-15T17:47:41: PM2 log: App [nextapp:1] exited with code [1] via signal [SIGINT]
+2023-02-15T17:47:41: PM2 log: App [nextapp:1] starting in -fork mode-
+2023-02-15T17:47:41: PM2 log: App [nextapp:1] online
+2023-02-15T17:47:42: PM2 log: App [nextapp:1] exited with code [1] via signal [SIGINT]
+2023-02-15T17:47:42: PM2 log: App [nextapp:1] starting in -fork mode-
+2023-02-15T17:47:42: PM2 log: App [nextapp:1] online
+2023-02-15T17:47:42: PM2 log: App [nextapp:1] exited with code [1] via signal [SIGINT]
+2023-02-15T17:47:42: PM2 log: App [nextapp:1] starting in -fork mode-
+2023-02-15T17:47:42: PM2 log: App [nextapp:1] online
+2023-02-15T17:47:43: PM2 log: App [nextapp:1] exited with code [1] via signal [SIGINT]
+2023-02-15T17:47:43: PM2 log: App [nextapp:1] starting in -fork mode-
+2023-02-15T17:47:43: PM2 log: App [nextapp:1] online
+2023-02-15T17:47:44: PM2 log: App [nextapp:1] exited with code [1] via signal [SIGINT]
+2023-02-15T17:47:44: PM2 log: App [nextapp:1] starting in -fork mode-
+2023-02-15T17:47:44: PM2 log: App [nextapp:1] online
+2023-02-15T17:47:44: PM2 log: App [nextapp:1] exited with code [1] via signal [SIGINT]
+2023-02-15T17:47:44: PM2 log: App [nextapp:1] starting in -fork mode-
+2023-02-15T17:47:44: PM2 log: App [nextapp:1] online
+2023-02-15T17:47:45: PM2 log: App [nextapp:1] exited with code [1] via signal [SIGINT]
+2023-02-15T17:47:45: PM2 log: Script /usr/bin/npm had too many unstable restarts (16). Stopped. "errored"
+2023-02-15T17:47:54: PM2 log: Stopping app:nextapp id:0
+2023-02-15T17:47:54: PM2 error: app=nextapp id=0 does not have a pid
+2023-02-15T17:47:56: PM2 log: Stopping app:nextapp id:1
+2023-02-15T17:47:56: PM2 error: app=nextapp id=1 does not have a pid
