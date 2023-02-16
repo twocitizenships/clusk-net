@@ -5,12 +5,14 @@ import Bio from './bio'
 
 export default function Home() {
   return (
-    <>
-      {/* <Head>
-      </Head> */}
+    <><div>
+        <Head>
+        <title>Clusk.net | Photographer, Writer, Engineer</title>
+        </Head>
         <Header />
         <Bio />
         <Footer />
+    </div>
     </>
   )
 }
