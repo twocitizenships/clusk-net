@@ -8,9 +8,9 @@ export default function Home() {
     <>
       <Head>
       </Head>
-        <Header />
+        {/* <Header />
         <Bio />
-        <Footer />
+        <Footer /> */}
     </>
   )
 }
