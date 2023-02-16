@@ -6,11 +6,11 @@ import Bio from './bio'
 export default function Home() {
   return (
     <>
-      <Head>
-      </Head>
-        {/* <Header />
+      {/* <Head>
+      </Head> */}
+        <Header />
         <Bio />
-        <Footer /> */}
+        <Footer />
     </>
   )
 }
