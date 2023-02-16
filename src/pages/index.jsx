@@ -5,7 +5,7 @@ import Bio from './bio'
 
 export default function Home() {
   return (
-    <><div>
+    <div>
         <Head>
         <title>Clusk.net | Photographer, Writer, Engineer</title>
         </Head>
@@ -13,6 +13,5 @@ export default function Home() {
         <Bio />
         <Footer />
     </div>
-    </>
   )
 }
