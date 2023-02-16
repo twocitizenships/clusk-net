@@ -6,8 +6,8 @@ import Bio from './bio'
 export default function Home() {
   return (
     <>
-      <Head>
-      </Head>
+      {/* <Head>
+      </Head> */}
       <main>
         <Header />
         <Bio />
