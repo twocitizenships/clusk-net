@@ -1,7 +1,7 @@
 import Head from 'next/head'
-import Header from './header'
-import Footer from './footer'
-import Bio from './bio'
+import Header from './components/header'
+import Footer from './components/footer'
+import Bio from './components/bio'
 
 export default function Home() {
   return (
