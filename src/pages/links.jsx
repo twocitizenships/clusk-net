@@ -5,7 +5,8 @@ export default function Links() {
     return (
         <>
             <Header />
-            <p>&#127902;: <a href="/film">@twocitizenships</a></p>
+            {/* <p>&#127902;: <a href="/film">@twocitizenships</a></p> */}
+            <p>&#127902;: <a href="https://instagram.com/twocitizenships">@twocitizenships</a></p>
             <p><style jsx>{`height:15px`}</style>
                 <img src="/github.svg"></img>: <a href="https://github.com/twocitizenships">@twocitizenships</a>
             </p>
