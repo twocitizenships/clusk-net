@@ -5,7 +5,7 @@ export default function Header() {
             <style jsx>{`padding:4px`}</style>
             <a href="/links"><img src="/Links.png"></img></a>
             <style jsx>{`padding:4px`}</style>
-            <a href="/girlfriend"><img src="/Gf.png"></img></a>
+            {/* <a href="/girlfriend"><img src="/Gf.png"></img></a> */}
         </div>
     );
 }

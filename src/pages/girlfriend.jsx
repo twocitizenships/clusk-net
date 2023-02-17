@@ -61,9 +61,11 @@ export default function Contact() {
     return (
         <div>
             <Header />
+            <p>Building a matchmaking application for Twitter mutuals...</p>
+            <p>I already have a gf #fakecel</p>
             <form action="/api/form" method="post">
                 <br />
-                <div><label htmlFor="twitter">Twitter: </label>
+                <div><label htmlFor="twitter">  Twitter: </label>
                     <input type="text" id="twitter" name="twitter" required />
                 </div>
                 <br />
@@ -71,7 +73,7 @@ export default function Contact() {
                     <input type="number" id="age" name="age" maxLength="2" max="25" required />
                 </div>
                 <br />
-                <div><label htmlFor="bmi">Body Mass Index [BMI]: </label>
+                <div><label htmlFor="bmi">BMI: </label>
                     <input type="number" id="bmi" name="bmi" maxLength="2" max="25" required />
                 </div>
                 <br />
