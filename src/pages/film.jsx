@@ -16,7 +16,6 @@ export default function Film() {
             <img src="../film/BullFightSpain.jpeg" title="Valencia, Spain [2013]" width="350px"></img>
             <img src="../film/CookingKuwait.jpeg" title="Kuwait [2014]" width="350px"></img>
             <img src="../film/SheepKuwait.jpeg" title="Kuwait [2014]" width="350px"></img>
-            <Footer />
         </div>
     );
 }
