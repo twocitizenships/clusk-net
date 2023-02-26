@@ -5,8 +5,10 @@ export default function Donate() {
     return (
         <div>
             <Header />
-            <h2>BTC Onchain Address</h2>
+            <p>BTC Address</p>
+            <p>bc1qt2ctcuf9dzv05da82twr4es2rttv4hwjszwrjth04m05f4j7njfqnckxtc</p>
             <img src="/Address.jpeg"></img>
+            <p>Donations fund Chadnet.org development, tweet research and time spent writing.</p>
             <Footer />
         </div>
     )
