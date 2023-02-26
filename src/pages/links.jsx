@@ -14,6 +14,9 @@ export default function Links() {
                 <img src="/spotify.svg"></img>: <a href="https://open.spotify.com/artist/4QyBej1bOaOJRWEDtLh8GZ?si=gP8b84x5S2K40gq2cWrlWA"> realpolitik</a>
             </p>
             <p>&#128231;: <a href="mailto:twocitizenships@gmail.com">twocitizenships@gmail.com</a></p>
+            <br></br>
+            <img src="/Address.jpeg"></img>
+            <h2>Bitcoin Onchain</h2>
             <Footer />
         </>
     )
