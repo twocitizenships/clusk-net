@@ -16,7 +16,7 @@ export default function Links() {
             <p>&#128231;: <a href="mailto:twocitizenships@gmail.com">twocitizenships@gmail.com</a></p>
             <br></br>
             <p>BTC Address</p>
-            <p>bc1qt2ctcuf9dzv05da82twr4es2rttv4hwjszwrjth04m05f4j7njfqnckxtc</p>
+            <p><style jsx>{`font-size:7px`}</style>bc1qt2ctcuf9dzv05da82twr4es2rttv4hwjszwrjth04m05f4j7njfqnckxtc</p>
             <img src="/Address.jpeg"></img>
             <Footer />
         </>
